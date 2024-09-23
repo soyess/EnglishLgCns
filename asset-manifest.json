@@ -1,7 +1,13 @@
 {
   "files": {
-    "main.css": "/EnglishLgCns/static/css/main.3ee562d7.css",
-    "main.js": "/EnglishLgCns/static/js/main.875a7af3.js",
+    "main.css": "/EnglishLgCns/static/css/main.142df1a7.css",
+    "main.js": "/EnglishLgCns/static/js/main.a29011cb.js",
+    "static/media/lgcns_service_web_english.mp4": "/EnglishLgCns/static/media/lgcns_service_web_english.6bf370fa59dc98c7977b.mp4",
+    "static/media/lgcns_service_offering.mp4": "/EnglishLgCns/static/media/lgcns_service_offering.7461b7028dfbdc0bf33e.mp4",
+    "static/media/LGCNS_Cloud_Main_R22_240812_EN_LQ.mp4": "/EnglishLgCns/static/media/LGCNS_Cloud_Main_R22_240812_EN_LQ.adb86852dd7916e16f89.mp4",
+    "static/media/LGCNS_Cloud_Main_R22_240812_KR_LQ.mp4": "/EnglishLgCns/static/media/LGCNS_Cloud_Main_R22_240812_KR_LQ.684048ea1b3ee37ce72d.mp4",
+    "static/media/lgcns_service_mo_english.mp4": "/EnglishLgCns/static/media/lgcns_service_mo_english.7065fbcb97631cb59437.mp4",
+    "static/media/lgcns_service_offering_mo.mp4": "/EnglishLgCns/static/media/lgcns_service_offering_mo.2bf8464a3973693b2793.mp4",
     "static/media/main_visual.png": "/EnglishLgCns/static/media/main_visual.b84f94c232d1d5fefc45.png",
     "static/media/scale.png": "/EnglishLgCns/static/media/scale.ce6bdb124c631ac3f8d6.png",
     "static/media/about_scale.png": "/EnglishLgCns/static/media/about_scale.509c0bd41eff073fd698.png",
@@ -12,6 +18,11 @@
     "static/media/about_scale_mo.png": "/EnglishLgCns/static/media/about_scale_mo.3720c90eadd59d8213fa.png",
     "static/media/about_visual.png": "/EnglishLgCns/static/media/about_visual.aead1201b3277db9b7fe.png",
     "static/media/hanwha_img01.png": "/EnglishLgCns/static/media/hanwha_img01.f53fca8e2781f3cac205.png",
+    "static/media/newsDetailsBackground.png": "/EnglishLgCns/static/media/newsDetailsBackground.7a3cd67c04496d1f421f.png",
+    "static/media/newsEvtBackground.png": "/EnglishLgCns/static/media/newsEvtBackground.7a3cd67c04496d1f421f.png",
+    "static/media/caseBackground.png": "/EnglishLgCns/static/media/caseBackground.05c0e19f4b27df28467b.png",
+    "static/media/caseDetailsBackground.png": "/EnglishLgCns/static/media/caseDetailsBackground.05c0e19f4b27df28467b.png",
+    "static/media/enCaseBackground.png": "/EnglishLgCns/static/media/enCaseBackground.05c0e19f4b27df28467b.png",
     "static/media/contact_banner_mo.png": "/EnglishLgCns/static/media/contact_banner_mo.87fe88bd02c7174810c2.png",
     "static/media/contact_mo.png": "/EnglishLgCns/static/media/contact_mo.87fe88bd02c7174810c2.png",
     "static/media/background.png": "/EnglishLgCns/static/media/background.facaf8cdd72faaa73dff.png",
@@ -19,6 +30,7 @@
     "static/media/map_mo.png": "/EnglishLgCns/static/media/map_mo.4bc2516b475d59d2d42d.png",
     "static/media/koreanair_img01.png": "/EnglishLgCns/static/media/koreanair_img01.be7d66e9666eeea8ae64.png",
     "static/media/imageDetails02.png": "/EnglishLgCns/static/media/imageDetails02.9dff438d201838703494.png",
+    "static/media/techBackground.png": "/EnglishLgCns/static/media/techBackground.70ffd9ef72821d7d4d05.png",
     "static/media/imageDetails01.png": "/EnglishLgCns/static/media/imageDetails01.c6ae01cb1b1d2d3c0261.png",
     "static/media/imageDetails04.png": "/EnglishLgCns/static/media/imageDetails04.fcef56b3208507460e58.png",
     "static/media/brand.svg": "/EnglishLgCns/static/media/brand.c0f292e4854670b3e3f31ce6c4c20530.svg",
@@ -39,11 +51,11 @@
     "static/media/report_download.svg": "/EnglishLgCns/static/media/report_download.de902b1d912884f46c76a810f0d4688e.svg",
     "static/media/link_arrow.svg": "/EnglishLgCns/static/media/link_arrow.6e6363033d9025b9241ea30b74681e75.svg",
     "static/media/scrolling.svg": "/EnglishLgCns/static/media/scrolling.1bcdc2519360021272e6f989cf62af3b.svg",
-    "main.3ee562d7.css.map": "/EnglishLgCns/static/css/main.3ee562d7.css.map",
-    "main.875a7af3.js.map": "/EnglishLgCns/static/js/main.875a7af3.js.map"
+    "main.142df1a7.css.map": "/EnglishLgCns/static/css/main.142df1a7.css.map",
+    "main.a29011cb.js.map": "/EnglishLgCns/static/js/main.a29011cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ee562d7.css",
-    "static/js/main.875a7af3.js"
+    "static/css/main.142df1a7.css",
+    "static/js/main.a29011cb.js"
   ]
 }
